@@ -3,6 +3,9 @@ Code files and data set related to preprint "A context-specific causal model for
 
 # Description of the files
 
+* `matkailijamittari_data_final.csv`
+  * The raw data set
+ 
 * `LDAG_M.R`
   * Constructed labelled causal diagram and identification of the causal query
 
@@ -22,4 +25,5 @@ Code files and data set related to preprint "A context-specific causal model for
   *  Calculates counterfactual predictions
 
 # References
-...
+Avoindata.fi. Visit Finland Border Survey. https://www.avoindata.fi/data/en_GB/dataset/visit-finland-matkailijamittari,
+2025. The data set was downloaded from Open Data website on 2025-08-11 with licence CC BY 4.0.
